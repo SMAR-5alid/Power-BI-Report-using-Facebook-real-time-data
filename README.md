@@ -1,12 +1,12 @@
-# Power BI Report using Facebook real time data
+# Power BI Report using Facebook real time data.
 
 @@ Facebook (Graph API)
 
 - Data Source: Graph API (Personal Account or Page) (Posts)
 https://graph.facebook.com/
 https://developers.facebook.com/
-- Create Facebook App 
 
+- Create Facebook App 
 - Rename Query Name 
 - Reanme Columns 
 - Change Datatype 
